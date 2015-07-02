@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../../Downloads/Cake.cs">
+    <Files>
+      <File FileName="Assets/Scripts/LoginScene.cs" Line="190" Column="48" />
+      <File FileName="Assets/Scripts/Managers.cs" Line="5" Column="1" />
+      <File FileName="Assets/Scripts/Models/Quiz.cs" Line="7" Column="1" />
+      <File FileName="Assets/Scripts/QuizScene.cs" Line="282" Column="17" />
+      <File FileName="../../../Downloads/Cake.cs" Line="13" Column="45" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
